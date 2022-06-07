@@ -1,0 +1,14 @@
+C:\Users\afand\source\repos\Homework060622\Homework060622\bin\Debug\netcoreapp3.1\Homework060622.exe
+C:\Users\afand\source\repos\Homework060622\Homework060622\bin\Debug\netcoreapp3.1\Homework060622.deps.json
+C:\Users\afand\source\repos\Homework060622\Homework060622\bin\Debug\netcoreapp3.1\Homework060622.runtimeconfig.json
+C:\Users\afand\source\repos\Homework060622\Homework060622\bin\Debug\netcoreapp3.1\Homework060622.runtimeconfig.dev.json
+C:\Users\afand\source\repos\Homework060622\Homework060622\bin\Debug\netcoreapp3.1\Homework060622.dll
+C:\Users\afand\source\repos\Homework060622\Homework060622\bin\Debug\netcoreapp3.1\Homework060622.pdb
+C:\Users\afand\source\repos\Homework060622\Homework060622\obj\Debug\netcoreapp3.1\Homework060622.csproj.AssemblyReference.cache
+C:\Users\afand\source\repos\Homework060622\Homework060622\obj\Debug\netcoreapp3.1\Homework060622.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afand\source\repos\Homework060622\Homework060622\obj\Debug\netcoreapp3.1\Homework060622.AssemblyInfoInputs.cache
+C:\Users\afand\source\repos\Homework060622\Homework060622\obj\Debug\netcoreapp3.1\Homework060622.AssemblyInfo.cs
+C:\Users\afand\source\repos\Homework060622\Homework060622\obj\Debug\netcoreapp3.1\Homework060622.csproj.CoreCompileInputs.cache
+C:\Users\afand\source\repos\Homework060622\Homework060622\obj\Debug\netcoreapp3.1\Homework060622.dll
+C:\Users\afand\source\repos\Homework060622\Homework060622\obj\Debug\netcoreapp3.1\Homework060622.pdb
+C:\Users\afand\source\repos\Homework060622\Homework060622\obj\Debug\netcoreapp3.1\Homework060622.genruntimeconfig.cache
